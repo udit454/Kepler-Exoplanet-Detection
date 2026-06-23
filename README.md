@@ -1,5 +1,9 @@
 # 🌌 Kepler Exoplanet Detection & Classification Dashboard
 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://hohoyoyo.streamlit.app/)
+
+**🚀 Try the live AI Inference Dashboard here:** [https://hohoyoyo.streamlit.app/](https://hohoyoyo.streamlit.app/)
+
 ## 🔭 Overview
 This project applies supervised machine learning to automate the vetting of NASA Kepler Objects of Interest (KOIs). It features a highly accurate **Random Forest Classifier** designed to distinguish genuine, confirmed exoplanets from false positives (such as eclipsing binary stars and instrumental noise) using purely physical and geometric transit parameters.
 
@@ -16,4 +20,4 @@ To run this application on your own machine:
 
 1. Clone the repository:
    ```bash
- git clone https://github.com/udit454/Kepler-Exoplanet-Detection.git
+   git clone [https://github.com/udit454/Kepler-Exoplanet-Detection.git](https://github.com/udit454/Kepler-Exoplanet-Detection.git)
