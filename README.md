@@ -16,4 +16,4 @@ To run this application on your own machine:
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/YOUR-USERNAME/Kepler-Exoplanet-Detection.git](https://github.com/YOUR-USERNAME/Kepler-Exoplanet-Detection.git)
+ git clone https://github.com/udit454/Kepler-Exoplanet-Detection.git
